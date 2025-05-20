@@ -1,0 +1,24 @@
+:root{
+    --primary : #642671;
+    --secondary : #be2171;
+}
+
+.primary{
+    color : var(--primary);
+}
+
+.secondary{
+    color : var(--secondary);
+}
+
+.primary-bg{
+    background-color : var(--primary);
+}
+
+.secondary-bg{
+    background-color : var(--secondary);
+}
+
+.hover-primary:hover{
+    color : var(--primary);
+}
